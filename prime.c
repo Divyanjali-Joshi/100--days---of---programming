@@ -1,4 +1,6 @@
-  #include <stdio.h>
+//Write a program to check if a number is prime.
+
+#include <stdio.h>
 int main()
 {
    int n,c=0;
@@ -19,4 +21,5 @@ int main()
     printf("not prime ");
    }
    return 0;
+
 }
