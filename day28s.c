@@ -1,4 +1,6 @@
- #include <stdio.h>
+//Read and print elements of a one-dimensional array.
+
+#include <stdio.h>
 
 void printarr(int *arr, int n ){
     for(int i=0; i<n; i++){
@@ -21,3 +23,4 @@ int main(){
 
     return 0;
 }
+
