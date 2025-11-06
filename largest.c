@@ -1,4 +1,6 @@
-   #include <stdio.h>
+//Write a program to input three numbers and find the largest among them using if–else.
+
+#include <stdio.h>
   
 int main()
 {
@@ -21,4 +23,5 @@ int main()
         printf("largest number is=%d",c);
     }
     return 0;
+
 }
