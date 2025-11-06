@@ -1,4 +1,4 @@
-//Check if the elements on the diagonal of a matrix are distinct.
+
  
 // Q77-Check if the elements on the diagonal of a matrix are distinct.
 
@@ -41,6 +41,7 @@
 
 
 }
+
 
 
 
