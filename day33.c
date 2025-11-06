@@ -1,4 +1,4 @@
-
+//Search in a sorted array using binary search.
 
 #include <stdio.h>
 
@@ -36,6 +36,7 @@ int n;
    printf("%d", binsearch(arr, n, key));
    return 0;
 }
+
 
 
 
