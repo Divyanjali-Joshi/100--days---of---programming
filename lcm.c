@@ -1,4 +1,5 @@
- 
+ //Write a program to find the LCM of two numbers.
+
 #include <stdio.h>
 
 // Function to compute GCD using Euclidean algorithm
@@ -30,3 +31,4 @@ int main() {
 
     return 0;
 }
+
