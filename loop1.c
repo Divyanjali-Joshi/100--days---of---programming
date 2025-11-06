@@ -1,4 +1,6 @@
- #include <stdio.h>
+//Write a program to print numbers from 1 to n.
+
+#include <stdio.h>
 int main()
 {
    int n;
@@ -9,4 +11,5 @@ int main()
     printf("%d \n",i);
    }
    return 0;
+
 }
