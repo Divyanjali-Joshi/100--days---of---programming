@@ -1,4 +1,5 @@
- 
+ //Count vowels and consonants in a string.
+
 
 #include <stdio.h>
 int main(){
@@ -25,6 +26,7 @@ int main(){
 
     return 0;
 }
+
 
 
 
