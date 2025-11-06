@@ -1,4 +1,7 @@
- #include <stdio.h>
+//Write a program to find the sum of digits of a number.
+
+
+#include <stdio.h>
 int main()
 {
    int n,c=0;
@@ -8,11 +11,12 @@ int main()
    while(n!=0)
    {
     int d=n%10;
-    c++;
+    c=c+d;
    n=n/10;
    }
-   printf("digits=%d",c);
+   printf("sum of digits=%d",c);
     
    
    return 0;
+
 }
