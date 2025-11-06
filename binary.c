@@ -1,4 +1,6 @@
- #include <stdio.h>
+//Write a program to take a number as input and print its equivalent binary representation.
+
+#include <stdio.h>
 
 void printBinary(unsigned int num) {
     int binary[32];
@@ -22,3 +24,4 @@ void printBinary(unsigned int num) {
         printf("%d", binary[j]);
     }
 }
+
