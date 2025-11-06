@@ -1,3 +1,4 @@
+//Convert a lowercase string to uppercase without using built-in functions.
 
 
 #include <stdio.h>
@@ -17,4 +18,5 @@ int main(){
     printf("%s", str);
     return 0;
    
+
 }
