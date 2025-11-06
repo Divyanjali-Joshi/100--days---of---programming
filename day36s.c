@@ -1,3 +1,4 @@
+//Find the sum of all elements in a matrix.
 
 
 #include <stdio.h>
@@ -20,3 +21,4 @@ int main(){
     printf("Sum = %d", sum);
     return 0;
 }
+
