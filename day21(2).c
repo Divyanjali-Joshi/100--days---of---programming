@@ -1,4 +1,5 @@
- 
+ //Write a program to check if a number is a perfect number.
+
 #include <stdio.h>
 #include <math.h>
 
@@ -22,3 +23,4 @@ int main() {
 
     return 0;
 }
+
