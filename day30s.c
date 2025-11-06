@@ -1,4 +1,4 @@
-
+//Count positive, negative, and zero elements in an array.
 
 #include <stdio.h>
 int main(){
@@ -27,3 +27,4 @@ int main(){
     printf("Positive=%d, Negative=%d, Zero=%d\n", poscount, negcount, zerocount);
     return 0;
 }
+
