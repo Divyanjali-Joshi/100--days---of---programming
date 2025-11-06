@@ -1,4 +1,5 @@
- 
+ //Perform diagonal traversal of a matrix.
+
 
 
  #include <stdio.h>
@@ -44,6 +45,7 @@
 
     return 0;
  }
+
 
 
 
