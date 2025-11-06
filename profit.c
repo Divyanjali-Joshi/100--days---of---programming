@@ -1,4 +1,4 @@
-//
+//write a program to calculate profit loss percentage
 #include <stdio.h>
   
 int main()
@@ -27,4 +27,5 @@ int main()
     }
     
     return 0;
+
 }
