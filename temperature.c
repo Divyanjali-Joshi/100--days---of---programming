@@ -1,3 +1,5 @@
+//Write a program to convert temperature from Celsius to Fahrenheit.
+
 #include <stdio.h>
 int main()
 {
@@ -5,4 +7,5 @@ int main()
     float t=0.0;
     t=(c*9/5)+32;
     printf("temperature= %f",t);
+
 } 
